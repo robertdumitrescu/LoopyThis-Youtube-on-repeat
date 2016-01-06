@@ -1,0 +1,9 @@
+{
+    "database" : {
+        "host" : "localhost",
+        "user" : "youtube_u",
+        "pass" : "192837",
+        "database" : "youtube",
+        "port" : "3306"
+    }
+}

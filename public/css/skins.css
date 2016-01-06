@@ -1,0 +1,42 @@
+.skin-1-navbar {
+    background-color: #009587 !important;
+}
+
+
+.skin-1-sidebar {
+    background-color: #FAFAFA !important;
+    box-shadow: 2px 0px 10px #888888;
+}
+
+.skin-1-collapsed-playlist {
+    background-color: #E0E0E0 !important;
+    color: #424242 !important;
+}
+
+
+.skin-1-playlist-title {
+    background-color: #EEEEEE !important;
+    color: #424242 !important;
+}
+
+.skin-1-playlist-title:hover {
+    background-color: #424242 !important;
+    color: #EEEEEE !important;
+}
+
+.skin-1-new-playlist-sign{
+
+    color: #009587 !important;
+
+}
+
+.skin-1-new-playlist-buttons{
+    background-color: #424242 !important;
+    color: #EEEEEE !important;
+    transition: 0.3s;
+}
+
+.skin-1-new-playlist-buttons:hover{
+    background-color: #212121 !important;
+    transition: 0.3s;
+}
